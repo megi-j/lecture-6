@@ -44,7 +44,7 @@ ul a {
 .cont {
 	left: 1169px; 
 }
-h1 {
+.title-1 {
 	position: absolute;
 	left: 139px;
 	top: 209px;
@@ -104,7 +104,7 @@ h1 {
 .arrow-right {
 	right: 157px;
 }
-h2 {
+.title-2 {
 	font-size: 42px;
 	font-family: 'Poppins-ExtraBold';
 	width: 374px;
@@ -151,7 +151,7 @@ h2 {
     margin-top: 19.6px;
     margin-left: 10px;  
 }
-.left-side {
+.text-side {
 	display: inline-block;
 	vertical-align: top;
 }
@@ -159,7 +159,7 @@ h2 {
 	display: inline-block;
 	vertical-align: top;
 }
-.images {
+.image-side {
 	width: 536px;
 	height: 461px;
 	left: 691px;
@@ -169,8 +169,7 @@ h2 {
 }
 .stairs, .pool {
 	width: 260px;
-	height: 185px;
-   
+	height: 185px;  
 }
 .stairs {
 	margin-left: 0;
@@ -182,4 +181,47 @@ h2 {
 	width: 536px;
 	height: 260px;
 	margin-top: 16px;
+}
+.footer {
+	width: 1366px;
+	height: 304px;
+	background-color: #121212;
+}
+.info {
+	width: 828px;
+	height: 191px;
+	padding-top: 50px;
+	padding-left: 139px;
+}
+.title-3 {
+	font-family: 'Poppins-Bold';
+	font-size: 24px;
+	color: #FFFFFF;
+}
+.par-4 {
+	font-family: 'Poppins-Medium';
+	font-size: 14px;
+	margin-top: 20px;
+	color: #B1B1B1;
+	width: 828px;
+	height: 83px;
+}
+.facebook, .twitter, .google{
+	width: 35px;
+	height: 35px;
+	margin-top: 20px;
+}
+.twitter, .google {
+	margin-left: 21.5px;
+}
+.copyright {
+	width: 559px;
+	height: 20px;
+	margin-left: 139px;
+	margin-top: 64px;	
+}
+.par-5 {
+	font-family: 'Poppins-Medium';
+	font-size: 14px;
+	color: #B1B1B1; 
 }
